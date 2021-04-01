@@ -1,1 +1,1 @@
-site link - https://mpn.pythonanywhere.com/
+project site link - https://mpn.pythonanywhere.com/
